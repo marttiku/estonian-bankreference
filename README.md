@@ -3,7 +3,7 @@ Estonian bank reference check digit calculation
 Panga viitenumbri kontrollkoha arvutamine
 
 # Install
-npm estonian-bankreference
+npm install estonian-bankreference
 
 # Usage
 
