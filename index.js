@@ -9,7 +9,6 @@ module.exports = {
         {
             var c = number.charAt(x);
             total = total + c * weight[pos % 3];
-            console.log(c,pos,total)
             pos++;
         }
         var checkdigit = (Math.ceil(total/10)*10)-total;
