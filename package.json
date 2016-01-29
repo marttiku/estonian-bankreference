@@ -1,8 +1,9 @@
 {
   "name": "estonian-bankreference",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Estonian bank reference checkdigit calculation",
   "main": "index.js",
+  "readme": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
